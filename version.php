@@ -387,10 +387,11 @@ class VersionUpdater
         );
         $output .= EOLx2;
 
-        $newTagName = $this->getCurrentVersionToString();
 
-        $tagCmd = "git tag {$newTagName}";
-        system($tagCmd);
+        // tagging before commit has no sense
+//        $newTagName = $this->getCurrentVersionToString();
+//        $tagCmd = "git tag {$newTagName}";
+//        system($tagCmd);
 
 
         if (!$this->colorsEnabled) {
