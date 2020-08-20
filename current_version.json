@@ -1,7 +1,1 @@
-{
-    "project_name": "version-updater",
-    "version": "0.0.1",
-    "state": "alpha",
-    "last_update": "2020-08-19 22:01:55",
-    "working_tree": "https:\/\/github.com\/biesior\/version-updater\/"
-}
+{"project_name":"version-updater","version":"0.0.4","state":"alpha","last_update":"2020-08-20+01:18:37"}
