@@ -5,6 +5,10 @@
 ![Updated](https://img.shields.io/static/v1?label=upated&message=2020-08-20+01:45:34&color=lightgray) <!-- __UPDATED_LINE__ -->
 
 
-### Disclaimer
+### Deprecated
 
-This code is in `alpha` state, please use it carefully. Visit the GitHub repository to check if newer `stable` state is available.
+This repository which _de facto_ is a POC will be dropped. After realising first `0.1.0-alpha` code will be moved to https://github.com/biesior/semantic-version.
+
+There is no realise date established for the new project, but it _should_ be quite soon.
+
+No more updates are supposed to be added here.
